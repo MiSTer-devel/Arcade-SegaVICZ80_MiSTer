@@ -1,0 +1,58 @@
+{
+	"appliesTo": [
+		"Carnival"
+	],
+	"zipName": "carnival.zip",
+	"sounds": [
+		{
+			"name": "bear.wav",
+			"trigger": "10",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "bonus1.wav",
+			"trigger": "6",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "bonus2.wav",
+			"trigger": "7",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "clang.wav",
+			"trigger": "1",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "duck1.wav",
+			"trigger": "2",
+			"triggerMode": "loopWhenHigh"
+		},
+		{
+			"name": "duck2.wav",
+			"trigger": "3",
+			"triggerMode": "loopWhenHigh"
+		},
+		{
+			"name": "duck3.wav",
+			"trigger": "4",
+			"triggerMode": "loopWhenHigh"
+		},
+		{
+			"name": "pipehit.wav",
+			"trigger": "5",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "ranking.wav",
+			"trigger": "13",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "rifle.wav",
+			"trigger": "0",
+			"triggerMode": "playOnHigh"
+		}
+	]
+}

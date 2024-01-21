@@ -1,0 +1,68 @@
+{
+	"appliesTo": [
+		"Pulsar"
+	],
+	"zipName": "pulsar.zip",
+	"sounds": [
+		{
+			"name": "clang.wav",
+			"trigger": "0",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "key.wav",
+			"trigger": "1",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "alienhit.wav",
+			"trigger": "2",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "phit.wav",
+			"trigger": "3",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "ashoot.wav",
+			"trigger": "4",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "pshoot.wav",
+			"trigger": "5",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "bonus.wav",
+			"trigger": "6",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "sizzle.wav",
+			"trigger": "9",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "gate.wav",
+			"trigger": "10",
+			"triggerMode": "playWhenHigh"
+		},
+		{
+			"name": "birth.wav",
+			"trigger": "11",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "hbeat.wav",
+			"trigger": "12",
+			"triggerMode": "loopWhenHigh"
+		},
+		{
+			"name": "movmaze.wav",
+			"trigger": "13",
+			"triggerMode": "loopWhenHigh"
+		}
+	]
+}

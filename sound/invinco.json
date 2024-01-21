@@ -1,0 +1,38 @@
+{
+	"appliesTo": [
+		"Invinco"
+	],
+	"zipName": "invinco.zip",
+	"sounds": [
+		{
+			"name": "saucer.wav",
+			"trigger": "10",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "move1.wav",
+			"trigger": "11",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "move2.wav",
+			"trigger": "12",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "fire.wav",
+			"trigger": "13",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "invhit.wav",
+			"trigger": "14",
+			"triggerMode": "playOnHigh"
+		},
+		{
+			"name": "shiphit.wav",
+			"trigger": "15",
+			"triggerMode": "playOnHigh"
+		}
+	]
+}
