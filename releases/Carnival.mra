@@ -1,8 +1,15 @@
 <misterromdescription>
 	<name>Carnival</name>
+	<year>1980</year>
+	<manufacturer>Sega Enterprises/Gremlin Industries</manufacturer>
+	<category>Shooter - Fixed vertical</category>
 	<setname>carnival</setname>
-	<mameversion>0240</mameversion>
+	<parent>carnival</parent>	
+	<mameversion>0245</mameversion>
 	<rbf>SegaVICZ80</rbf>
+	<resolution>15kHz</resolution>
+	<rotation>vertical</rotation>
+	<flip>no</flip>
 	<buttons default="A,Start,C,R,L" names="Fire,-,-,Start 1P,Start 2P,Coin,Pause">
 	</buttons>
 	<switches default="00">
